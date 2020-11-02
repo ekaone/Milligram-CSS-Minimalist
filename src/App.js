@@ -49,6 +49,50 @@ function App() {
           </div>
         </div>
       </div>
+      <br />
+      <blockquote>
+        <p>
+          <em>Yeah!! Milligram is amazing.</em>
+        </p>
+      </blockquote>
+      <br />
+      <p>The base type is 1.6rem (16px) over 1.6 line height (24px)</p>
+      <a>Anchor</a>
+      <em>Emphasis</em>
+      <small>Small</small>
+      <strong>Strong</strong>
+      <u>Underline</u>
+      <h1>Heading</h1>
+      <h2>Heading</h2>
+      <h3>Heading</h3>
+      <h4>Heading</h4>
+      <h5>Heading</h5>
+      <h6>Heading</h6>
+      <br />
+      <table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Height</th>
+            <th>Location</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Stephen Curry</td>
+            <td>27</td>
+            <td>1,91</td>
+            <td>Akron, OH</td>
+          </tr>
+          <tr>
+            <td>Klay Thompson</td>
+            <td>25</td>
+            <td>2,01</td>
+            <td>Los Angeles, CA</td>
+          </tr>
+        </tbody>
+      </table>
     </>
   );
 }
